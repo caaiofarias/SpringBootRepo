@@ -1,5 +1,8 @@
+
+import java.util.List;
+
 public class Response { 
-    private T data;
+    private String data;
     private List<String> errors;
 
 
